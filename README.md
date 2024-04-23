@@ -6,7 +6,7 @@ This project automates the attendance-taking process using computer vision techn
   3. Supports both live webcam feed and mobile camera feed.
   4. Simple and easy-to-understand codebase.
 # Directory Structure:
-- attendance_system.py: Main Python script for face detection, recognition, and attendance logging.
+- attendance system based on Face Recognition with openCV.ipynb: Main Python script for face detection, recognition, and attendance logging.
 - DATASET/: Folder containing images of individuals for training.
 - Attendance.csv: CSV file to store attendance data.
 # Dependencies:
